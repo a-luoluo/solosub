@@ -1,0 +1,4 @@
+interface:
+  display_name: "SoloSub — Soloco 诊断反馈"
+  short_description: "用通俗语言分析 Soloco 诊断包，确认一次后提交飞书反馈"
+  default_prompt: "Use $solosub to explain this Soloco diagnostic package clearly, show me one readable feedback report for confirmation, and submit it after I confirm."
